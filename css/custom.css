@@ -11888,6 +11888,70 @@ textarea.form-control-lg {
   background-color: #D9D9D9;
 }
 
+.bg-blue {
+  background-color: #2164F4;
+}
+
+.bg-yellow {
+  background-color: #FFC000;
+}
+
+.bg-lightgreen {
+  background-color: #70AD47;
+}
+
+.bg-pink {
+  background-color: #FE469B;
+}
+
+.bg-hotpink {
+  background-color: #FF40FF;
+}
+
+.bg-neonblue {
+  background-color: #0432FF;
+}
+
+.bg-pastelorange {
+  background-color: #FB9C38;
+}
+
+.bg-pastelblue {
+  background-color: #8FAADC;
+}
+
+.bg-lightgrey {
+  background-color: #616161;
+}
+
+.bg-brown {
+  background-color: #843C0C;
+}
+
+.bg-mustard {
+  background-color: #BF9000;
+}
+
+.bg-pastelyellow {
+  background-color: #FFD966;
+}
+
+.bg-purpblue {
+  background-color: #3200C0;
+}
+
+.bg-darkgrey {
+  background-color: #222A35;
+}
+
+.bg-burgundy {
+  background-color: #902D41;
+}
+
+.bg-salmon {
+  background-color: #F27059;
+}
+
 .navbar-brand {
   height: 100px;
   display: flex;
@@ -11915,6 +11979,11 @@ textarea.form-control-lg {
 .card img {
   height: 320px;
   object-fit: contain;
+}
+
+.footer-image {
+  width: auto;
+  height: 70px;
 }
 
 .px-5 {
@@ -11950,6 +12019,10 @@ textarea.form-control-lg {
 
 .custom-margin div {
   margin: 2em;
+}
+
+footer {
+  border-top: solid 1px black;
 }
 
 /*# sourceMappingURL=custom.css.map */
