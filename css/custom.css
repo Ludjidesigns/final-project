@@ -11983,7 +11983,7 @@ textarea.form-control-lg {
 
 .footer-image {
   width: auto;
-  height: 70px;
+  height: 100px;
 }
 
 .px-5 {
@@ -12023,6 +12023,18 @@ textarea.form-control-lg {
 
 footer {
   border-top: solid 1px black;
+}
+
+.img-right {
+  height: 320px;
+  object-fit: contain;
+  object-position: right;
+  padding-right: 100px;
+}
+
+.text-position {
+  width: 30%;
+  text-align: left;
 }
 
 /*# sourceMappingURL=custom.css.map */

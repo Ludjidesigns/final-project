@@ -139,7 +139,7 @@ overflow: hidden;
 
 .footer-image {
    width: auto;
-   height: 70px;
+   height: 100px;
 }
 
  .px-5 {
@@ -179,4 +179,16 @@ overflow: hidden;
 footer {
    border-top: solid 1px black;
    
+}
+
+.img-right {
+   height: 320px;
+   object-fit: contain;
+   object-position: right;
+   padding-right: 100px;
+}
+
+.text-position {
+   width: 30%;
+   text-align: left;
 }
